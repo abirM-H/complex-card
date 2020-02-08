@@ -1,0 +1,82 @@
+.puc{
+  width: 50px;
+  height: 50px;
+  border-radius: 12px
+}
+.masdercard{
+  width: 50%;
+  height: 50%;
+
+}
+.complex-Card{
+  display: flex;
+  /* width: 60%; */
+  margin: 10% 10%;
+  
+}
+.details{
+margin-left: 20px;
+
+}
+.details input{
+  margin-top: 20px
+}
+.card{
+  /* background-color: rgb(84, 84, 235); */
+   width: 600px; 
+   height: 300px;
+  border-radius: 12px;
+  background-color: blue;
+  padding: 0% 2%;
+  background: url(https://cdn2.slidemodel.com/wp-content/uploads/2074-01-worldmap-connections-16x9-2.jpg) no-repeat center center; 
+  background-size: cover; 
+ }
+ 
+h2{
+  color: white;
+ display: flex;
+ justify-content: flex-end;
+ 
+}
+.footer-card{
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+ 
+
+}
+
+.dateLogo{
+  display: flex;
+  justify-content: flex-end;
+  
+  width: 200px
+  
+}
+.name{
+  text-transform: uppercase;
+    /* font-weight: 600; */
+    font-size: 16px;
+    /* height: 25px; */
+    color:white;
+    font-size: 32px;
+    width: 100px
+
+}
+.num{
+    height: 91px;
+    font-size: 32px;
+    letter-spacing: 2px;
+    color:white
+}
+.date{
+    text-transform: uppercase;
+    /* font-weight: 600; */
+    font-size: 16px;
+    /* height: 25px; */
+    color:white
+}
+main{
+
+height: 150px;
+}
